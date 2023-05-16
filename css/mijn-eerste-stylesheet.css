@@ -16,3 +16,14 @@ html {
 background: radial-gradient(circle, skyblue, skyBlue 50%, plum 50%, skyBlue);
 background-size: 8px 8px;
 }
+a
+{
+    text-decoration: none;
+}
+p.button {
+    border: 4px dotted #0000FF;
+    border-radius: 10px;
+    padding: 1em;
+    background-color: #B2FFFF;
+    text-decoration: none;
+}
