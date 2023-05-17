@@ -21,7 +21,7 @@ a
     text-decoration: none;
 }
 p.button {
-    border: 4px dotted #0000FF;
+    border: 4px solid #0000FF;
     border-radius: 10px;
     padding: 1em;
     background-color: #B2FFFF;
